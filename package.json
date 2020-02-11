@@ -1,7 +1,7 @@
 {
     "name": "nearest-five-guys",
     "version": "0.0.2",
-    "description": "Nearest Five Guys",
+    "description": "🍔 Nearest Five Guys",
     "main": "index.js",
     "scripts": {
         "start": "webpack-dev-server"

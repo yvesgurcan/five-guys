@@ -1,4 +1,4 @@
-Locate the closest Five Guys thanks to the Olo API.
+🍔 Locate the closest Five Guys thanks to the Olo API.
 
 Allows a user to search for a Five Guys location by zip code, displaying them in order of distance from the search location.
 
