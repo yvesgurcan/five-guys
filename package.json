@@ -1,6 +1,6 @@
 {
     "name": "nearest-five-guys",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "🍔 Nearest Five Guys",
     "main": "index.js",
     "scripts": {
@@ -11,6 +11,7 @@
     "devDependencies": {
         "@babel/core": "^7.8.4",
         "@babel/plugin-proposal-class-properties": "^7.8.3",
+        "@babel/plugin-transform-runtime": "^7.8.3",
         "@babel/preset-env": "^7.8.4",
         "@babel/preset-react": "^7.8.3",
         "@testing-library/jest-dom": "^5.1.1",
@@ -29,7 +30,5 @@
         "webpack-cli": "^3.3.10",
         "webpack-dev-server": "^3.10.3"
     },
-    "dependencies": {
-        "@babel/plugin-transform-runtime": "^7.8.3"
-    }
+    "dependencies": {}
 }
